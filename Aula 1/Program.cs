@@ -5,8 +5,8 @@
 //    <date>2024-09-26</date>
 //    <time>16:01</time>
 //    <version>0.1</version>
-//    <author></author>
-//    <description></description>
+//    <author></Maria Rodrigues 28038>
+//    <description><Aula 1 - Assinatura, region e introdução ao C#- "Hello World">
 //-----------------------------------------------------------------
 
 using System;
