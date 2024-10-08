@@ -2,11 +2,11 @@
 // <copyright file="Aula_3.cs" company="IPCA">
 // Copyright (c) IPCA-EST 2024. All rights reserved.
 // </copyright>
-// <date>2024-10-03</date>
+// <date>2024-10-04</date>
 // <time>16:00</time>
 // <version>0.1</version>
 // <author></Maria Rodrigues-28038>
-// <description>< Aula 3 - Classes, atributos, métodos, acessos , namespace e Nota POO>
+// <description>< Aula 3 - Calculadora>
 //-----------------------------------------------------------------
 using System;
 using System.Collections.Generic;

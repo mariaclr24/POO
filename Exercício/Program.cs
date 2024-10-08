@@ -1,4 +1,14 @@
-﻿using System;
+﻿//-----------------------------------------------------------------
+// <copyright file="Aula_3.cs" company="IPCA">
+// Copyright (c) IPCA-EST 2024. All rights reserved.
+// </copyright>
+// <date>2024-10-03</date>
+// <time>16:00</time>
+// <version>0.1</version>
+// <author></Maria Rodrigues-28038>
+// <description>< Exercicios>
+//-----------------------------------------------------------------
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
