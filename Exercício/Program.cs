@@ -32,7 +32,7 @@ namespace Exercício
 
             System.Console.WriteLine("*\n**\n***\n****\n*****");
 
-            for(int i = 0;i<=4;i++)
+            for(int i = 0;i<=5;i++)
             {
                 for(int j = 0;j<=i; j++)
                 {
