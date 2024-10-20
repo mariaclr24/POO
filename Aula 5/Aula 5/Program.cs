@@ -6,7 +6,7 @@
 //    <time><16:01>
 //    <version>0.1</version>
 //    <author><Maria Rodrigues>
-//    <description> <Aula 5- Herança, Polimorfismo, propriedades, virtual, override, interface e URL>
+//    <description><Aula 5- Herança, Polimorfismo, propriedades, virtual, override, interface e URL>
 //-----------------------------------------------------------------
 
 using System;
